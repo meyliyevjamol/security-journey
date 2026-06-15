@@ -8,7 +8,7 @@
   "pentest": "🎯 Пентест",
   "cryptography": "🔑 Криптография",
   "compliance": "📋 Соответствие и аудит",
-  "-- big": { "type": "separator", "title": "📊 Big Data" },
+  "-- big": { "type": "separator", "title": "📊 Анализ данных" },
   "data-engineering": "🛠️ Инженерия данных",
   "big-data-tools": "🐘 Инструменты Big Data",
   "data-warehouse": "🏛️ Хранилище данных",

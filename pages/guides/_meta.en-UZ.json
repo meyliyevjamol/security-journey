@@ -8,7 +8,7 @@
   "pentest": "🎯 Penetratsion Test",
   "cryptography": "🔑 Kriptografiya",
   "compliance": "📋 Muvofiqlik & Audit",
-  "-- big": { "type": "separator", "title": "📊 Big Data" },
+  "-- big": { "type": "separator", "title": "📊 Data Analiz" },
   "data-engineering": "🛠️ Ma'lumotlar Muhandisligi",
   "big-data-tools": "🐘 Big Data Toollari",
   "data-warehouse": "🏛️ Ma'lumotlar Ombori",

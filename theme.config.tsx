@@ -134,9 +134,9 @@ const config: DocsThemeConfig = {
     const { locale } = useRouter();
     const title = frontMatter?.title || 'Security Journey';
     const defaultDescriptions: Record<string, string> = {
-      'en-UZ': "Kiberxavfsizlik va Big Data bo'yicha bepul ta'lim platformasi Security Journey-ga xush kelibsiz",
-      'en': "Welcome to Security Journey - a free educational platform for cybersecurity and big data",
-      'ru': "Добро пожаловать в Security Journey - бесплатная образовательная платформа по кибербезопасности и большим данным",
+      'en-UZ': "Kiberxavfsizlik va Data Analiz bo'yicha bepul ta'lim platformasi Security Journey-ga xush kelibsiz",
+      'en': "Welcome to Security Journey - a free educational platform for cybersecurity and data analysis",
+      'ru': "Добро пожаловать в Security Journey - бесплатная образовательная платформа по кибербезопасности и анализу данных",
     };
     const description =
       frontMatter?.description ||

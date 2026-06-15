@@ -1,8 +1,8 @@
 <h1 align="center">🛡️ Security Journey</h1>
 
-<h4 align="center">Kiberxavfsizlik va Big Data bo'yicha ochiq manbali ta'lim platformasi.</h4>
+<h4 align="center">Kiberxavfsizlik va Data Analiz bo'yicha ochiq manbali ta'lim platformasi.</h4>
 
-**Security Journey** — kiberxavfsizlik (cybersecurity) va katta ma'lumotlar (Big Data) bo'yicha
+**Security Journey** — kiberxavfsizlik (cybersecurity) va data analiz bo'yicha
 bepul, ochiq manbali ta'lim platformasi. Maqsad — o'zbek, ingliz va rus tillarida amaliy,
 real-world qo'llanmalar va maqolalar to'plamini yaratish.
 
@@ -17,7 +17,7 @@ real-world qo'llanmalar va maqolalar to'plamini yaratish.
 - **Cryptography** — TLS, PKI, hashing, encryption
 - **Compliance & Audit** — ISO 27001, GDPR, SOC
 
-### 📊 Big Data
+### 📊 Data Analiz
 - **Data Engineering** — ETL/ELT, pipeline, Airflow
 - **Big Data Tools** — Hadoop, Spark, Kafka, Flink
 - **Data Warehouse** — Snowflake, BigQuery, ClickHouse

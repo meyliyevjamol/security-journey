@@ -8,7 +8,7 @@
   "pentest": "🎯 Penetration Testing",
   "cryptography": "🔑 Cryptography",
   "compliance": "📋 Compliance & Audit",
-  "-- big": { "type": "separator", "title": "📊 Big Data" },
+  "-- big": { "type": "separator", "title": "📊 Data Analysis" },
   "data-engineering": "🛠️ Data Engineering",
   "big-data-tools": "🐘 Big Data Tools",
   "data-warehouse": "🏛️ Data Warehouse",

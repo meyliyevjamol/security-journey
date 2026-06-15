@@ -131,7 +131,7 @@ const config: DocsThemeConfig = {
     const { theme } = useTheme();
 
     // eslint-disable-next-line react-hooks/rules-of-hooks
-    const { locale } = useRouter();
+    const { locale, asPath } = useRouter();
     const title = frontMatter?.title || 'Security Journey';
     const defaultDescriptions: Record<string, string> = {
       'en-UZ': "Kiberxavfsizlik va Data Analiz bo'yicha bepul ta'lim platformasi Security Journey-ga xush kelibsiz",
@@ -148,8 +148,49 @@ const config: DocsThemeConfig = {
 
     const composedTitle = `${title} - Security Journey`;
 
+    const cleanPath = (asPath || '/')
+      .split('?')[0]
+      .split('#')[0]
+      .replace(/\.(en-UZ|en|ru)$/, '');
+    const localePrefix = locale && locale !== 'en-UZ' ? `/${locale}` : '';
+    const canonical =
+      localePrefix && cleanPath === '/'
+        ? `https://security-journey.uz${localePrefix}`
+        : `https://security-journey.uz${localePrefix}${
+            cleanPath === '/' ? '/' : cleanPath
+          }`;
+
+    const jsonLd = {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Organization',
+          '@id': 'https://security-journey.uz/#org',
+          name: 'Security Journey',
+          url: 'https://security-journey.uz/',
+          logo: 'https://security-journey.uz/icon.svg',
+          sameAs: ['https://github.com/meyliyevjamol/security-journey'],
+        },
+        {
+          '@type': 'WebSite',
+          '@id': 'https://security-journey.uz/#website',
+          name: 'Security Journey',
+          alternateName: 'Security Journey — backend xavfsizlik va data',
+          url: 'https://security-journey.uz/',
+          publisher: { '@id': 'https://security-journey.uz/#org' },
+          inLanguage: ['uz', 'en', 'ru'],
+        },
+      ],
+    };
+
     return (
       <>
+        <link rel="canonical" href={canonical} />
+        <meta property="og:url" content={canonical} />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
         <link rel="icon" type="image/svg+xml" href="/icon.svg" />
         <link
           rel="apple-touch-icon"

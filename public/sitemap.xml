@@ -1,0 +1,2460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://security-journey.uz/</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/consultation</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/consultation"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/consultation"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/consultation"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/consultation"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/consultation</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/consultation"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/consultation"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/consultation"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/consultation"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/consultation</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/consultation"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/consultation"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/consultation"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/consultation"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/async-queues/async-nima</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/async-nima"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/async-nima"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/async-nima"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/async-nima"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/async-queues/async-nima</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/async-nima"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/async-nima"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/async-nima"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/async-nima"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/async-queues/async-nima</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/async-nima"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/async-nima"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/async-nima"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/async-nima"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/async-queues/background-jobs</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/background-jobs"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/background-jobs"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/background-jobs"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/background-jobs"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/async-queues/background-jobs</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/background-jobs"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/background-jobs"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/background-jobs"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/background-jobs"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/async-queues/background-jobs</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/background-jobs"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/background-jobs"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/background-jobs"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/background-jobs"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/async-queues/dead-letter</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/dead-letter"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/dead-letter"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/dead-letter"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/dead-letter"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/async-queues/dead-letter</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/dead-letter"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/dead-letter"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/dead-letter"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/dead-letter"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/async-queues/dead-letter</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/dead-letter"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/dead-letter"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/dead-letter"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/dead-letter"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/async-queues/exactly-once</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/exactly-once"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/exactly-once"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/exactly-once"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/exactly-once"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/async-queues/exactly-once</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/exactly-once"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/exactly-once"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/exactly-once"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/exactly-once"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/async-queues/exactly-once</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/exactly-once"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/exactly-once"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/exactly-once"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/exactly-once"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/async-queues/kafka</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/kafka"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/kafka"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/kafka"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/kafka"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/async-queues/kafka</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/kafka"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/kafka"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/kafka"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/kafka"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/async-queues/kafka</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/kafka"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/kafka"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/kafka"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/kafka"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/async-queues/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/async-queues/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/async-queues/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/async-queues/message-queue</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/message-queue"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/message-queue"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/message-queue"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/message-queue"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/async-queues/message-queue</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/message-queue"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/message-queue"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/message-queue"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/message-queue"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/async-queues/message-queue</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/async-queues/message-queue"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/async-queues/message-queue"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/async-queues/message-queue"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/async-queues/message-queue"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/auth/auth-asoslari</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/auth-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/auth-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/auth-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/auth-asoslari"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/auth/auth-asoslari</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/auth-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/auth-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/auth-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/auth-asoslari"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/auth/auth-asoslari</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/auth-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/auth-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/auth-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/auth-asoslari"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/auth/jwt</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/jwt"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/jwt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/jwt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/jwt"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/auth/jwt</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/jwt"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/jwt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/jwt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/jwt"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/auth/jwt</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/jwt"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/jwt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/jwt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/jwt"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/auth/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/auth/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/auth/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/auth/multi-tenant</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/multi-tenant"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/multi-tenant"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/multi-tenant"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/multi-tenant"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/auth/multi-tenant</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/multi-tenant"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/multi-tenant"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/multi-tenant"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/multi-tenant"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/auth/multi-tenant</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/multi-tenant"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/multi-tenant"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/multi-tenant"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/multi-tenant"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/auth/oauth-oidc</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/oauth-oidc"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/oauth-oidc"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/oauth-oidc"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/oauth-oidc"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/auth/oauth-oidc</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/oauth-oidc"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/oauth-oidc"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/oauth-oidc"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/oauth-oidc"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/auth/oauth-oidc</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/oauth-oidc"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/oauth-oidc"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/oauth-oidc"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/oauth-oidc"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/auth/parol-saqlash</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/parol-saqlash"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/parol-saqlash"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/parol-saqlash"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/parol-saqlash"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/auth/parol-saqlash</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/parol-saqlash"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/parol-saqlash"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/parol-saqlash"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/parol-saqlash"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/auth/parol-saqlash</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/parol-saqlash"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/parol-saqlash"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/parol-saqlash"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/parol-saqlash"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/auth/rbac</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/rbac"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/rbac"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/rbac"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/rbac"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/auth/rbac</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/rbac"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/rbac"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/rbac"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/rbac"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/auth/rbac</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/rbac"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/rbac"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/rbac"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/rbac"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/auth/sessiya-cookie</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/sessiya-cookie"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/sessiya-cookie"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/sessiya-cookie"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/sessiya-cookie"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/auth/sessiya-cookie</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/sessiya-cookie"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/sessiya-cookie"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/sessiya-cookie"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/sessiya-cookie"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/auth/sessiya-cookie</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/sessiya-cookie"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/sessiya-cookie"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/sessiya-cookie"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/sessiya-cookie"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/auth/token-xavfsizligi</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/token-xavfsizligi"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/token-xavfsizligi"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/token-xavfsizligi"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/token-xavfsizligi"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/auth/token-xavfsizligi</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/token-xavfsizligi"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/token-xavfsizligi"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/token-xavfsizligi"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/token-xavfsizligi"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/auth/token-xavfsizligi</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/auth/token-xavfsizligi"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/auth/token-xavfsizligi"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/auth/token-xavfsizligi"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/auth/token-xavfsizligi"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/caching/cache-invalidation</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/caching/cache-invalidation"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/caching/cache-invalidation"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/caching/cache-invalidation"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/caching/cache-invalidation"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/caching/cache-invalidation</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/caching/cache-invalidation"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/caching/cache-invalidation"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/caching/cache-invalidation"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/caching/cache-invalidation"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/caching/cache-invalidation</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/caching/cache-invalidation"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/caching/cache-invalidation"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/caching/cache-invalidation"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/caching/cache-invalidation"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/caching/cache-strategiyalar</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/caching/cache-strategiyalar"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/caching/cache-strategiyalar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/caching/cache-strategiyalar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/caching/cache-strategiyalar"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/caching/cache-strategiyalar</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/caching/cache-strategiyalar"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/caching/cache-strategiyalar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/caching/cache-strategiyalar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/caching/cache-strategiyalar"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/caching/cache-strategiyalar</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/caching/cache-strategiyalar"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/caching/cache-strategiyalar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/caching/cache-strategiyalar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/caching/cache-strategiyalar"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/caching/caching-nima</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/caching/caching-nima"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/caching/caching-nima"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/caching/caching-nima"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/caching/caching-nima"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/caching/caching-nima</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/caching/caching-nima"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/caching/caching-nima"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/caching/caching-nima"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/caching/caching-nima"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/caching/caching-nima</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/caching/caching-nima"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/caching/caching-nima"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/caching/caching-nima"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/caching/caching-nima"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/caching/distributed-cache</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/caching/distributed-cache"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/caching/distributed-cache"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/caching/distributed-cache"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/caching/distributed-cache"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/caching/distributed-cache</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/caching/distributed-cache"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/caching/distributed-cache"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/caching/distributed-cache"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/caching/distributed-cache"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/caching/distributed-cache</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/caching/distributed-cache"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/caching/distributed-cache"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/caching/distributed-cache"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/caching/distributed-cache"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/caching/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/caching/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/caching/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/caching/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/caching/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/caching/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/caching/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/caching/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/caching/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/caching/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/caching/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/caching/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/caching/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/caching/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/caching/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/caching/redis</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/caching/redis"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/caching/redis"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/caching/redis"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/caching/redis"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/caching/redis</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/caching/redis"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/caching/redis"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/caching/redis"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/caching/redis"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/caching/redis</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/caching/redis"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/caching/redis"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/caching/redis"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/caching/redis"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/data-pipeline/airflow</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/data-pipeline/airflow"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/data-pipeline/airflow"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/data-pipeline/airflow"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/data-pipeline/airflow"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/data-pipeline/airflow</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/data-pipeline/airflow"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/data-pipeline/airflow"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/data-pipeline/airflow"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/data-pipeline/airflow"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/data-pipeline/airflow</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/data-pipeline/airflow"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/data-pipeline/airflow"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/data-pipeline/airflow"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/data-pipeline/airflow"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/data-pipeline/batch-stream</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/data-pipeline/batch-stream"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/data-pipeline/batch-stream"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/data-pipeline/batch-stream"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/data-pipeline/batch-stream"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/data-pipeline/batch-stream</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/data-pipeline/batch-stream"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/data-pipeline/batch-stream"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/data-pipeline/batch-stream"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/data-pipeline/batch-stream"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/data-pipeline/batch-stream</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/data-pipeline/batch-stream"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/data-pipeline/batch-stream"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/data-pipeline/batch-stream"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/data-pipeline/batch-stream"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/data-pipeline/data-quality</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/data-pipeline/data-quality"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/data-pipeline/data-quality"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/data-pipeline/data-quality"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/data-pipeline/data-quality"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/data-pipeline/data-quality</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/data-pipeline/data-quality"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/data-pipeline/data-quality"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/data-pipeline/data-quality"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/data-pipeline/data-quality"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/data-pipeline/data-quality</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/data-pipeline/data-quality"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/data-pipeline/data-quality"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/data-pipeline/data-quality"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/data-pipeline/data-quality"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/data-pipeline/etl-elt</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/data-pipeline/etl-elt"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/data-pipeline/etl-elt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/data-pipeline/etl-elt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/data-pipeline/etl-elt"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/data-pipeline/etl-elt</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/data-pipeline/etl-elt"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/data-pipeline/etl-elt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/data-pipeline/etl-elt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/data-pipeline/etl-elt"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/data-pipeline/etl-elt</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/data-pipeline/etl-elt"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/data-pipeline/etl-elt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/data-pipeline/etl-elt"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/data-pipeline/etl-elt"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/data-pipeline/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/data-pipeline/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/data-pipeline/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/data-pipeline/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/data-pipeline/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/data-pipeline/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/data-pipeline/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/data-pipeline/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/data-pipeline/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/data-pipeline/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/data-pipeline/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/data-pipeline/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/data-pipeline/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/data-pipeline/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/data-pipeline/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/data-pipeline/pipeline-scaling</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/data-pipeline/pipeline-scaling"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/data-pipeline/pipeline-scaling"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/data-pipeline/pipeline-scaling"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/data-pipeline/pipeline-scaling"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/data-pipeline/pipeline-scaling</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/data-pipeline/pipeline-scaling"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/data-pipeline/pipeline-scaling"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/data-pipeline/pipeline-scaling"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/data-pipeline/pipeline-scaling"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/data-pipeline/pipeline-scaling</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/data-pipeline/pipeline-scaling"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/data-pipeline/pipeline-scaling"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/data-pipeline/pipeline-scaling"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/data-pipeline/pipeline-scaling"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/database-scaling/connection-pooling</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/connection-pooling"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/connection-pooling"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/connection-pooling"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/connection-pooling"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/database-scaling/connection-pooling</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/connection-pooling"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/connection-pooling"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/connection-pooling"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/connection-pooling"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/database-scaling/connection-pooling</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/connection-pooling"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/connection-pooling"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/connection-pooling"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/connection-pooling"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/database-scaling/indekslar</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/indekslar"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/indekslar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/indekslar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/indekslar"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/database-scaling/indekslar</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/indekslar"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/indekslar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/indekslar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/indekslar"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/database-scaling/indekslar</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/indekslar"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/indekslar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/indekslar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/indekslar"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/database-scaling/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/database-scaling/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/database-scaling/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/database-scaling/n-plus-one</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/n-plus-one"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/n-plus-one"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/n-plus-one"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/n-plus-one"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/database-scaling/n-plus-one</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/n-plus-one"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/n-plus-one"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/n-plus-one"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/n-plus-one"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/database-scaling/n-plus-one</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/n-plus-one"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/n-plus-one"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/n-plus-one"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/n-plus-one"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/database-scaling/pagination</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/pagination"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/pagination"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/pagination"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/pagination"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/database-scaling/pagination</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/pagination"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/pagination"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/pagination"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/pagination"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/database-scaling/pagination</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/pagination"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/pagination"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/pagination"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/pagination"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/database-scaling/query-optimization</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/query-optimization"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/query-optimization"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/query-optimization"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/query-optimization"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/database-scaling/query-optimization</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/query-optimization"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/query-optimization"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/query-optimization"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/query-optimization"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/database-scaling/query-optimization</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/query-optimization"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/query-optimization"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/query-optimization"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/query-optimization"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/database-scaling/read-replica</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/read-replica"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/read-replica"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/read-replica"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/read-replica"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/database-scaling/read-replica</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/read-replica"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/read-replica"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/read-replica"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/read-replica"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/database-scaling/read-replica</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/read-replica"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/read-replica"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/read-replica"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/read-replica"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/database-scaling/scaling-strategiyalar</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/scaling-strategiyalar"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/scaling-strategiyalar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/scaling-strategiyalar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/scaling-strategiyalar"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/database-scaling/scaling-strategiyalar</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/scaling-strategiyalar"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/scaling-strategiyalar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/scaling-strategiyalar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/scaling-strategiyalar"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/database-scaling/scaling-strategiyalar</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/database-scaling/scaling-strategiyalar"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/database-scaling/scaling-strategiyalar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/database-scaling/scaling-strategiyalar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/database-scaling/scaling-strategiyalar"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/encryption/baza-shifrlash</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/baza-shifrlash"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/baza-shifrlash"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/baza-shifrlash"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/baza-shifrlash"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/encryption/baza-shifrlash</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/baza-shifrlash"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/baza-shifrlash"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/baza-shifrlash"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/baza-shifrlash"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/encryption/baza-shifrlash</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/baza-shifrlash"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/baza-shifrlash"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/baza-shifrlash"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/baza-shifrlash"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/encryption/hash-vs-shifr</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/hash-vs-shifr"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/hash-vs-shifr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/hash-vs-shifr"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/hash-vs-shifr"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/encryption/hash-vs-shifr</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/hash-vs-shifr"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/hash-vs-shifr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/hash-vs-shifr"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/hash-vs-shifr"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/encryption/hash-vs-shifr</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/hash-vs-shifr"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/hash-vs-shifr"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/hash-vs-shifr"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/hash-vs-shifr"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/encryption/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/encryption/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/encryption/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/encryption/kms</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/kms"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/kms"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/kms"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/kms"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/encryption/kms</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/kms"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/kms"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/kms"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/kms"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/encryption/kms</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/kms"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/kms"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/kms"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/kms"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/encryption/pii-shifrlash</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/pii-shifrlash"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/pii-shifrlash"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/pii-shifrlash"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/pii-shifrlash"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/encryption/pii-shifrlash</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/pii-shifrlash"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/pii-shifrlash"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/pii-shifrlash"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/pii-shifrlash"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/encryption/pii-shifrlash</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/pii-shifrlash"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/pii-shifrlash"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/pii-shifrlash"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/pii-shifrlash"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/encryption/shifrlash-asoslari</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/shifrlash-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/shifrlash-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/shifrlash-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/shifrlash-asoslari"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/encryption/shifrlash-asoslari</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/shifrlash-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/shifrlash-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/shifrlash-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/shifrlash-asoslari"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/encryption/shifrlash-asoslari</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/shifrlash-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/shifrlash-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/shifrlash-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/shifrlash-asoslari"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/encryption/tls-https</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/tls-https"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/tls-https"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/tls-https"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/tls-https"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/encryption/tls-https</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/tls-https"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/tls-https"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/tls-https"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/tls-https"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/encryption/tls-https</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/encryption/tls-https"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/encryption/tls-https"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/encryption/tls-https"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/encryption/tls-https"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/input-injection/input-validatsiya</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/input-validatsiya"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/input-validatsiya"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/input-validatsiya"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/input-validatsiya"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/input-injection/input-validatsiya</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/input-validatsiya"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/input-validatsiya"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/input-validatsiya"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/input-validatsiya"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/input-injection/input-validatsiya</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/input-validatsiya"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/input-validatsiya"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/input-validatsiya"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/input-validatsiya"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/input-injection/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/input-injection/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/input-injection/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/input-injection/mass-assignment</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/mass-assignment"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/mass-assignment"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/mass-assignment"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/mass-assignment"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/input-injection/mass-assignment</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/mass-assignment"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/mass-assignment"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/mass-assignment"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/mass-assignment"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/input-injection/mass-assignment</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/mass-assignment"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/mass-assignment"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/mass-assignment"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/mass-assignment"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/input-injection/nosql-injection</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/nosql-injection"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/nosql-injection"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/nosql-injection"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/nosql-injection"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/input-injection/nosql-injection</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/nosql-injection"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/nosql-injection"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/nosql-injection"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/nosql-injection"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/input-injection/nosql-injection</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/nosql-injection"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/nosql-injection"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/nosql-injection"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/nosql-injection"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/input-injection/orm-xavfsizligi</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/orm-xavfsizligi"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/orm-xavfsizligi"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/orm-xavfsizligi"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/orm-xavfsizligi"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/input-injection/orm-xavfsizligi</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/orm-xavfsizligi"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/orm-xavfsizligi"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/orm-xavfsizligi"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/orm-xavfsizligi"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/input-injection/orm-xavfsizligi</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/orm-xavfsizligi"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/orm-xavfsizligi"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/orm-xavfsizligi"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/orm-xavfsizligi"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/input-injection/parametrlangan-sorovlar</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/parametrlangan-sorovlar"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/parametrlangan-sorovlar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/parametrlangan-sorovlar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/parametrlangan-sorovlar"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/input-injection/parametrlangan-sorovlar</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/parametrlangan-sorovlar"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/parametrlangan-sorovlar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/parametrlangan-sorovlar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/parametrlangan-sorovlar"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/input-injection/parametrlangan-sorovlar</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/parametrlangan-sorovlar"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/parametrlangan-sorovlar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/parametrlangan-sorovlar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/parametrlangan-sorovlar"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/input-injection/sql-injection</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/sql-injection"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/sql-injection"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/sql-injection"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/sql-injection"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/input-injection/sql-injection</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/sql-injection"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/sql-injection"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/sql-injection"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/sql-injection"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/input-injection/sql-injection</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/input-injection/sql-injection"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/input-injection/sql-injection"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/input-injection/sql-injection"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/input-injection/sql-injection"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/overview</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/overview"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/overview"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/overview"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/overview"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/overview</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/overview"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/overview"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/overview"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/overview"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/overview</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/overview"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/overview"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/overview"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/overview"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/partitioning/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/partitioning/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/partitioning/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/partitioning/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/partitioning/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/partitioning/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/partitioning/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/partitioning/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/partitioning/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/partitioning/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/partitioning/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/partitioning/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/partitioning/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/partitioning/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/partitioning/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/partitioning/partition-kalit</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/partitioning/partition-kalit"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/partitioning/partition-kalit"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/partitioning/partition-kalit"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/partitioning/partition-kalit"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/partitioning/partition-kalit</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/partitioning/partition-kalit"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/partitioning/partition-kalit"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/partitioning/partition-kalit"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/partitioning/partition-kalit"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/partitioning/partition-kalit</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/partitioning/partition-kalit"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/partitioning/partition-kalit"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/partitioning/partition-kalit"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/partitioning/partition-kalit"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/partitioning/partitioning-nima</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/partitioning/partitioning-nima"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/partitioning/partitioning-nima"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/partitioning/partitioning-nima"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/partitioning/partitioning-nima"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/partitioning/partitioning-nima</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/partitioning/partitioning-nima"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/partitioning/partitioning-nima"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/partitioning/partitioning-nima"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/partitioning/partitioning-nima"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/partitioning/partitioning-nima</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/partitioning/partitioning-nima"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/partitioning/partitioning-nima"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/partitioning/partitioning-nima"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/partitioning/partitioning-nima"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/partitioning/resharding</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/partitioning/resharding"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/partitioning/resharding"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/partitioning/resharding"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/partitioning/resharding"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/partitioning/resharding</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/partitioning/resharding"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/partitioning/resharding"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/partitioning/resharding"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/partitioning/resharding"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/partitioning/resharding</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/partitioning/resharding"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/partitioning/resharding"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/partitioning/resharding"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/partitioning/resharding"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/partitioning/sharding</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/partitioning/sharding"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/partitioning/sharding"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/partitioning/sharding"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/partitioning/sharding"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/partitioning/sharding</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/partitioning/sharding"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/partitioning/sharding"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/partitioning/sharding"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/partitioning/sharding"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/partitioning/sharding</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/partitioning/sharding"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/partitioning/sharding"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/partitioning/sharding"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/partitioning/sharding"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/pii/audit-log</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/pii/audit-log"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/pii/audit-log"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/pii/audit-log"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/pii/audit-log"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/pii/audit-log</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/pii/audit-log"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/pii/audit-log"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/pii/audit-log"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/pii/audit-log"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/pii/audit-log</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/pii/audit-log"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/pii/audit-log"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/pii/audit-log"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/pii/audit-log"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/pii/gdpr-asoslari</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/pii/gdpr-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/pii/gdpr-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/pii/gdpr-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/pii/gdpr-asoslari"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/pii/gdpr-asoslari</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/pii/gdpr-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/pii/gdpr-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/pii/gdpr-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/pii/gdpr-asoslari"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/pii/gdpr-asoslari</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/pii/gdpr-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/pii/gdpr-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/pii/gdpr-asoslari"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/pii/gdpr-asoslari"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/pii/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/pii/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/pii/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/pii/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/pii/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/pii/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/pii/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/pii/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/pii/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/pii/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/pii/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/pii/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/pii/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/pii/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/pii/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/pii/maskalash</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/pii/maskalash"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/pii/maskalash"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/pii/maskalash"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/pii/maskalash"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/pii/maskalash</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/pii/maskalash"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/pii/maskalash"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/pii/maskalash"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/pii/maskalash"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/pii/maskalash</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/pii/maskalash"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/pii/maskalash"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/pii/maskalash"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/pii/maskalash"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/pii/minimallashtirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/pii/minimallashtirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/pii/minimallashtirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/pii/minimallashtirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/pii/minimallashtirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/pii/minimallashtirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/pii/minimallashtirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/pii/minimallashtirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/pii/minimallashtirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/pii/minimallashtirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/pii/minimallashtirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/pii/minimallashtirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/pii/minimallashtirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/pii/minimallashtirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/pii/minimallashtirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/pii/pii-nima</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/pii/pii-nima"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/pii/pii-nima"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/pii/pii-nima"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/pii/pii-nima"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/pii/pii-nima</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/pii/pii-nima"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/pii/pii-nima"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/pii/pii-nima"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/pii/pii-nima"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/pii/pii-nima</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/pii/pii-nima"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/pii/pii-nima"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/pii/pii-nima"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/pii/pii-nima"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/secrets/connection-string</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secrets/connection-string"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secrets/connection-string"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secrets/connection-string"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secrets/connection-string"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/secrets/connection-string</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secrets/connection-string"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secrets/connection-string"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secrets/connection-string"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secrets/connection-string"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/secrets/connection-string</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secrets/connection-string"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secrets/connection-string"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secrets/connection-string"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secrets/connection-string"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/secrets/env-sirlar</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secrets/env-sirlar"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secrets/env-sirlar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secrets/env-sirlar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secrets/env-sirlar"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/secrets/env-sirlar</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secrets/env-sirlar"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secrets/env-sirlar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secrets/env-sirlar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secrets/env-sirlar"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/secrets/env-sirlar</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secrets/env-sirlar"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secrets/env-sirlar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secrets/env-sirlar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secrets/env-sirlar"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/secrets/gitga-parol</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secrets/gitga-parol"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secrets/gitga-parol"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secrets/gitga-parol"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secrets/gitga-parol"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/secrets/gitga-parol</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secrets/gitga-parol"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secrets/gitga-parol"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secrets/gitga-parol"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secrets/gitga-parol"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/secrets/gitga-parol</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secrets/gitga-parol"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secrets/gitga-parol"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secrets/gitga-parol"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secrets/gitga-parol"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/secrets/kalit-rotatsiya</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secrets/kalit-rotatsiya"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secrets/kalit-rotatsiya"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secrets/kalit-rotatsiya"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secrets/kalit-rotatsiya"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/secrets/kalit-rotatsiya</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secrets/kalit-rotatsiya"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secrets/kalit-rotatsiya"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secrets/kalit-rotatsiya"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secrets/kalit-rotatsiya"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/secrets/kalit-rotatsiya</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secrets/kalit-rotatsiya"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secrets/kalit-rotatsiya"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secrets/kalit-rotatsiya"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secrets/kalit-rotatsiya"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/secrets/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secrets/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secrets/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secrets/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secrets/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/secrets/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secrets/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secrets/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secrets/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secrets/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/secrets/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secrets/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secrets/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secrets/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secrets/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/secrets/vault</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secrets/vault"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secrets/vault"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secrets/vault"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secrets/vault"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/secrets/vault</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secrets/vault"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secrets/vault"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secrets/vault"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secrets/vault"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/secrets/vault</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secrets/vault"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secrets/vault"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secrets/vault"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secrets/vault"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/secure-api/api-auth</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/api-auth"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/api-auth"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/api-auth"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/api-auth"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/secure-api/api-auth</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/api-auth"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/api-auth"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/api-auth"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/api-auth"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/secure-api/api-auth</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/api-auth"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/api-auth"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/api-auth"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/api-auth"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/secure-api/api-gateway</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/api-gateway"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/api-gateway"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/api-gateway"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/api-gateway"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/secure-api/api-gateway</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/api-gateway"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/api-gateway"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/api-gateway"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/api-gateway"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/secure-api/api-gateway</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/api-gateway"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/api-gateway"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/api-gateway"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/api-gateway"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/secure-api/cors</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/cors"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/cors"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/cors"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/cors"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/secure-api/cors</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/cors"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/cors"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/cors"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/cors"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/secure-api/cors</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/cors"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/cors"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/cors"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/cors"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/secure-api/idempotency</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/idempotency"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/idempotency"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/idempotency"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/idempotency"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/secure-api/idempotency</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/idempotency"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/idempotency"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/idempotency"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/idempotency"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/secure-api/idempotency</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/idempotency"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/idempotency"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/idempotency"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/idempotency"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/secure-api/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/secure-api/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/secure-api/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/secure-api/rate-limiting</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/rate-limiting"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/rate-limiting"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/rate-limiting"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/rate-limiting"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/secure-api/rate-limiting</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/rate-limiting"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/rate-limiting"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/rate-limiting"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/rate-limiting"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/secure-api/rate-limiting</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/rate-limiting"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/rate-limiting"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/rate-limiting"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/rate-limiting"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/secure-api/sorov-javob</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/sorov-javob"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/sorov-javob"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/sorov-javob"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/sorov-javob"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/secure-api/sorov-javob</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/sorov-javob"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/sorov-javob"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/sorov-javob"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/sorov-javob"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/secure-api/sorov-javob</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/secure-api/sorov-javob"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/secure-api/sorov-javob"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/secure-api/sorov-javob"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/secure-api/sorov-javob"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/storage/data-lake</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/data-lake"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/data-lake"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/data-lake"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/data-lake"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/storage/data-lake</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/data-lake"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/data-lake"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/data-lake"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/data-lake"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/storage/data-lake</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/data-lake"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/data-lake"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/data-lake"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/data-lake"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/storage/data-warehouse</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/data-warehouse"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/data-warehouse"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/data-warehouse"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/data-warehouse"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/storage/data-warehouse</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/data-warehouse"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/data-warehouse"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/data-warehouse"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/data-warehouse"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/storage/data-warehouse</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/data-warehouse"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/data-warehouse"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/data-warehouse"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/data-warehouse"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/storage/fayl-formatlar</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/fayl-formatlar"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/fayl-formatlar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/fayl-formatlar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/fayl-formatlar"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/storage/fayl-formatlar</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/fayl-formatlar"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/fayl-formatlar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/fayl-formatlar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/fayl-formatlar"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/storage/fayl-formatlar</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/fayl-formatlar"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/fayl-formatlar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/fayl-formatlar"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/fayl-formatlar"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/storage/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/storage/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/storage/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/storage/lakehouse</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/lakehouse"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/lakehouse"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/lakehouse"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/lakehouse"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/storage/lakehouse</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/lakehouse"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/lakehouse"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/lakehouse"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/lakehouse"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/storage/lakehouse</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/lakehouse"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/lakehouse"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/lakehouse"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/lakehouse"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/storage/object-storage</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/object-storage"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/object-storage"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/object-storage"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/object-storage"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/storage/object-storage</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/object-storage"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/object-storage"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/object-storage"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/object-storage"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/storage/object-storage</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/object-storage"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/object-storage"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/object-storage"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/object-storage"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/storage/saqlash-turlari</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/saqlash-turlari"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/saqlash-turlari"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/saqlash-turlari"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/saqlash-turlari"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/storage/saqlash-turlari</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/saqlash-turlari"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/saqlash-turlari"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/saqlash-turlari"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/saqlash-turlari"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/storage/saqlash-turlari</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/storage/saqlash-turlari"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/storage/saqlash-turlari"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/storage/saqlash-turlari"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/storage/saqlash-turlari"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/streaming/event-driven</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/streaming/event-driven"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/streaming/event-driven"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/streaming/event-driven"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/streaming/event-driven"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/streaming/event-driven</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/streaming/event-driven"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/streaming/event-driven"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/streaming/event-driven"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/streaming/event-driven"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/streaming/event-driven</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/streaming/event-driven"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/streaming/event-driven"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/streaming/event-driven"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/streaming/event-driven"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/streaming/kafka-streams</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/streaming/kafka-streams"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/streaming/kafka-streams"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/streaming/kafka-streams"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/streaming/kafka-streams"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/streaming/kafka-streams</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/streaming/kafka-streams"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/streaming/kafka-streams"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/streaming/kafka-streams"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/streaming/kafka-streams"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/streaming/kafka-streams</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/streaming/kafka-streams"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/streaming/kafka-streams"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/streaming/kafka-streams"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/streaming/kafka-streams"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/streaming/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/streaming/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/streaming/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/streaming/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/streaming/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/streaming/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/streaming/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/streaming/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/streaming/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/streaming/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/streaming/kirish</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/streaming/kirish"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/streaming/kirish"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/streaming/kirish"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/streaming/kirish"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/streaming/stream-scaling</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/streaming/stream-scaling"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/streaming/stream-scaling"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/streaming/stream-scaling"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/streaming/stream-scaling"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/streaming/stream-scaling</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/streaming/stream-scaling"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/streaming/stream-scaling"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/streaming/stream-scaling"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/streaming/stream-scaling"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/streaming/stream-scaling</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/streaming/stream-scaling"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/streaming/stream-scaling"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/streaming/stream-scaling"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/streaming/stream-scaling"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/streaming/streaming-nima</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/streaming/streaming-nima"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/streaming/streaming-nima"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/streaming/streaming-nima"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/streaming/streaming-nima"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/streaming/streaming-nima</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/streaming/streaming-nima"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/streaming/streaming-nima"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/streaming/streaming-nima"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/streaming/streaming-nima"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/streaming/streaming-nima</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/streaming/streaming-nima"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/streaming/streaming-nima"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/streaming/streaming-nima"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/streaming/streaming-nima"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/guides/streaming/windowing</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/streaming/windowing"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/streaming/windowing"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/streaming/windowing"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/streaming/windowing"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/guides/streaming/windowing</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/streaming/windowing"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/streaming/windowing"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/streaming/windowing"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/streaming/windowing"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/guides/streaming/windowing</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/guides/streaming/windowing"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/guides/streaming/windowing"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/guides/streaming/windowing"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/guides/streaming/windowing"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/tutorials/all</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/tutorials/all"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/tutorials/all"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/tutorials/all"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/tutorials/all"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/en/tutorials/all</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/tutorials/all"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/tutorials/all"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/tutorials/all"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/tutorials/all"/>
+  </url>
+  <url>
+    <loc>https://security-journey.uz/ru/tutorials/all</loc>
+    <lastmod>2026-06-15</lastmod>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://security-journey.uz/tutorials/all"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://security-journey.uz/tutorials/all"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://security-journey.uz/en/tutorials/all"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://security-journey.uz/ru/tutorials/all"/>
+  </url>
+</urlset>

@@ -1,8 +1,21 @@
 {
-  "kirish": {
-    "title": "Introduction",
-    "icon": "🌊",
-    "description": "First steps into this section",
-    "href": "/guides/streaming/kirish"
-  }
+  "kirish": "Introduction",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Beginner"
+  },
+  "streaming-nima": "What Is Streaming: Processing Data Live",
+  "event-driven": "Event-Driven Architecture: Systems That React to Events",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Intermediate"
+  },
+  "kafka-streams": "Kafka Streams: Transforming the Flow in Real Time",
+  "windowing": "Windowing: Grouping Data Across Time",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Advanced"
+  },
+  "exactly-once": "Exactly-Once: Every Message Exactly Once",
+  "stream-scaling": "Millions of Events/Sec: Scaling the Stream"
 }

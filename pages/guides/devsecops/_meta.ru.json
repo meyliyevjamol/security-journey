@@ -1,8 +1,22 @@
 {
-  "kirish": {
-    "title": "Введение",
-    "icon": "🔧",
-    "description": "Первые шаги в этом разделе",
-    "href": "/guides/devsecops/kirish"
-  }
+  "kirish": "Введение",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Начальный"
+  },
+  "devsecops-nima": "Что такое DevSecOps: сдвигаем безопасность влево",
+  "sast-dast": "SAST vs DAST: проверяем и код, и работающее приложение",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Средний"
+  },
+  "dependency-scanning": "Риск зависимостей: чужой код — ваша уязвимость",
+  "ci-sirlar": "Секреты в CI/CD: не пушим пароли в GitHub",
+  "trivy": "Сканирование образов с Trivy: проверяем контейнеры",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Продвинутый"
+  },
+  "supply-chain": "Атаки на цепочку поставок: самое слабое звено",
+  "sbom": "SBOM: знаем, из чего на самом деле собрано приложение"
 }

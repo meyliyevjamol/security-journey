@@ -1,8 +1,21 @@
 {
-  "kirish": {
-    "title": "Kirish",
-    "icon": "🌊",
-    "description": "Ushbu bo'limga ilk qadamlar",
-    "href": "/guides/streaming/kirish"
-  }
+  "kirish": "Kirish",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Boshlang'ich"
+  },
+  "streaming-nima": "Streaming nima: maʼlumotni 'jonli efirda' qayta ishlash",
+  "event-driven": "Event-driven arxitektura: hodisaga javob beruvchi tizim",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 O'rtacha"
+  },
+  "kafka-streams": "Kafka Streams: oqimni real vaqtda oʻzgartirish",
+  "windowing": "Oyna (windowing): vaqt boʻylab maʼlumotni guruhlash",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Murakkab"
+  },
+  "exactly-once": "Exactly-once: har xabar aniq bir marta",
+  "stream-scaling": "Millionlab event/sekund: oqimni masshtablash"
 }

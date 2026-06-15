@@ -1,8 +1,22 @@
 {
-  "kirish": {
-    "title": "Kirish",
-    "icon": "☁️",
-    "description": "Ushbu bo'limga ilk qadamlar",
-    "href": "/guides/cloud-security/kirish"
-  }
+  "kirish": "Kirish",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Boshlang'ich"
+  },
+  "bulut-asoslari": "Bulutda xavfsizlik: javobgarlik aslida kimda?",
+  "iam": "IAM: kim, qayerga va qachon kira oladi",
+  "ochiq-bucket": "Ochiq S3 bucket: eng ko'p uchraydigan halokatli xato",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 O'rtacha"
+  },
+  "sirlarni-saqlash": "Sirlarni saqlash: parolni koddan chiqarib tashlash",
+  "bulut-tarmoq": "Security Groups va VPC: bulutdagi devorlar",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Murakkab"
+  },
+  "cspm": "CSPM: butun bulutni avtomatik nazorat qilish",
+  "hujum-yollari": "Hujum yoʻllari: bitta kalitdan butun bulutgacha"
 }

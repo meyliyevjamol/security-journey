@@ -1,8 +1,24 @@
 {
-  "kirish": {
-    "title": "Introduction",
-    "icon": "🕸️",
-    "description": "First steps into this section",
-    "href": "/guides/web-security/kirish"
-  }
+  "kirish": "Introduction",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Beginner"
+  },
+  "http-asoslari": "How the Web Works: HTTP, Cookies & Hidden Secrets",
+  "owasp-top-10": "OWASP Top 10: The 10 Holes Hackers Love",
+  "xss": "XSS: How Foreign Code Sneaks Into Your Browser",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Intermediate"
+  },
+  "sql-injection": "SQL Injection: Owning a Database with a Single Quote",
+  "auth-vs-authz": "Authentication vs Authorization: Who? and Allowed What?",
+  "jwt-xavfsizligi": "JWT Tokens: A Powerful Weapon, Dangerous if Misused",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Advanced"
+  },
+  "ssrf": "SSRF: Making the Server Attack From the Inside",
+  "cache-poisoning": "Web Cache Poisoning: Turning the CDN Into a Weapon",
+  "deserialization": "Deserialization Attacks: Turning Data Into Code"
 }

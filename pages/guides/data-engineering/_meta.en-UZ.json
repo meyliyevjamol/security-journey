@@ -1,8 +1,22 @@
 {
-  "kirish": {
-    "title": "Kirish",
-    "icon": "🛠️",
-    "description": "Ushbu bo'limga ilk qadamlar",
-    "href": "/guides/data-engineering/kirish"
-  }
+  "kirish": "Kirish",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Boshlang'ich"
+  },
+  "data-eng-nima": "Data Engineering nima: maʼlumot quvurlari dunyosi",
+  "etl-elt": "ETL vs ELT: maʼlumotni qayerda tozalash",
+  "batch-stream": "Batch vs Streaming: toʻplab yoki oqim bilan",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 O'rtacha"
+  },
+  "airflow": "Apache Airflow: quvurlarni dirijyorlik qilish",
+  "data-modeling": "Maʼlumotni modellashtirish: star schema sirlari",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Murakkab"
+  },
+  "data-quality": "Maʼlumot sifati: axlat kirsa, axlat chiqadi",
+  "pipeline-scaling": "Petabaytli quvurlar: ulkan hajmni boshqarish"
 }

@@ -1,8 +1,21 @@
 {
-  "kirish": {
-    "title": "Kirish",
-    "icon": "🏛️",
-    "description": "Ushbu bo'limga ilk qadamlar",
-    "href": "/guides/data-warehouse/kirish"
-  }
+  "kirish": "Kirish",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Boshlang'ich"
+  },
+  "dwh-nima": "Data Warehouse nima: biznes savollariga javob",
+  "olap-oltp": "OLAP vs OLTP: hisobot uchunmi yoki tranzaksiya?",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 O'rtacha"
+  },
+  "bigquery-snowflake": "BigQuery va Snowflake: bulutli omborlar",
+  "dimensional": "Dimensional modellashtirish: fakt va oʻlchovlar",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Murakkab"
+  },
+  "clickhouse": "ClickHouse: millisekundda milliard qator",
+  "query-optimization": "So'rovlarni optimallash: sekin SQL'ni davolash"
 }

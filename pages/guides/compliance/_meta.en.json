@@ -1,8 +1,21 @@
 {
-  "kirish": {
-    "title": "Introduction",
-    "icon": "📋",
-    "description": "First steps into this section",
-    "href": "/guides/compliance/kirish"
-  }
+  "kirish": "Introduction",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Beginner"
+  },
+  "compliance-nima": "What Is Compliance: Why Rules Matter",
+  "iso-27001": "ISO 27001: Intro to the Security Standard",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Intermediate"
+  },
+  "gdpr": "GDPR: Personal Data and Big Fines",
+  "risk-baholash": "Risk Assessment: What to Protect First",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Advanced"
+  },
+  "soc2": "SOC 2 Audit: Documenting Trust",
+  "siyosat": "Writing a Security Policy From Scratch"
 }

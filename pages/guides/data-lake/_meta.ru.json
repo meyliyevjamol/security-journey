@@ -1,8 +1,21 @@
 {
-  "kirish": {
-    "title": "Введение",
-    "icon": "💧",
-    "description": "Первые шаги в этом разделе",
-    "href": "/guides/data-lake/kirish"
-  }
+  "kirish": "Введение",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Начальный"
+  },
+  "data-lake-nima": "Data Lake: храним всё в одном озере",
+  "lake-vs-warehouse": "Озеро или хранилище: что вам нужно?",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Средний"
+  },
+  "minio-s3": "MinIO и S3: основы объектного хранилища",
+  "fayl-formatlar": "Parquet, ORC, Avro: выбираем правильный формат",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Продвинутый"
+  },
+  "lakehouse": "Lakehouse: озеро и хранилище в одном (Delta, Iceberg)",
+  "data-governance": "Data Governance: чтобы озеро не стало болотом"
 }

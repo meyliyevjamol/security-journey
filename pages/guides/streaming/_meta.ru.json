@@ -1,8 +1,21 @@
 {
-  "kirish": {
-    "title": "Введение",
-    "icon": "🌊",
-    "description": "Первые шаги в этом разделе",
-    "href": "/guides/streaming/kirish"
-  }
+  "kirish": "Введение",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Начальный"
+  },
+  "streaming-nima": "Что такое стриминг: обработка данных в прямом эфире",
+  "event-driven": "Событийная архитектура: системы, реагирующие на события",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Средний"
+  },
+  "kafka-streams": "Kafka Streams: преобразуем поток в реальном времени",
+  "windowing": "Окна (windowing): группируем данные во времени",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Продвинутый"
+  },
+  "exactly-once": "Exactly-once: каждое сообщение ровно один раз",
+  "stream-scaling": "Миллионы событий/сек: масштабируем поток"
 }

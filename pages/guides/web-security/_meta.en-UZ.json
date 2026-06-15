@@ -1,8 +1,24 @@
 {
-  "kirish": {
-    "title": "Kirish",
-    "icon": "🕸️",
-    "description": "Ushbu bo'limga ilk qadamlar",
-    "href": "/guides/web-security/kirish"
-  }
+  "kirish": "Kirish",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Boshlang'ich"
+  },
+  "http-asoslari": "Web qanday ishlaydi: HTTP, cookie va yashirin sirlar",
+  "owasp-top-10": "OWASP Top 10: xakerlar suiiste'mol qiladigan 10 ta teshik",
+  "xss": "XSS: brauzeringizga begona kod qanday 'yuqadi'",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 O'rtacha"
+  },
+  "sql-injection": "SQL Injection: bitta ' belgisi bilan bazani egallash",
+  "auth-vs-authz": "Authentication vs Authorization: kim? va nimaga ruxsat?",
+  "jwt-xavfsizligi": "JWT tokenlar: kuchli qurol, noto'g'ri ishlatilsa xavfli",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Murakkab"
+  },
+  "ssrf": "SSRF: serverni o'z ichidan hujumga majburlash",
+  "cache-poisoning": "Web Cache Poisoning: CDN'ni qurolga aylantirish",
+  "deserialization": "Deserialization hujumlari: maʼlumotdan kod yasash"
 }

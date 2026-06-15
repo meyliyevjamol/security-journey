@@ -1,8 +1,22 @@
 {
-  "kirish": {
-    "title": "Introduction",
-    "icon": "🔑",
-    "description": "First steps into this section",
-    "href": "/guides/cryptography/kirish"
-  }
+  "kirish": "Introduction",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Beginner"
+  },
+  "shifrlash-asoslari": "Encryption Basics: How to Hide a Secret",
+  "hash": "Hash Functions: Making Passwords Irreversible",
+  "simmetrik-asimmetrik": "Symmetric vs Asymmetric: One Key or Two?",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Intermediate"
+  },
+  "tls-https": "TLS/HTTPS: How Trust Is Built on the Internet",
+  "pki": "PKI & Certificates: Digital Passports",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Advanced"
+  },
+  "kripto-hujumlar": "Cryptographic Attacks: Breaking the Math",
+  "post-kvant": "Post-Quantum Cryptography: Preparing for the Future Threat"
 }

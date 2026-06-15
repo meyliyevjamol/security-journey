@@ -1,8 +1,21 @@
 {
-  "kirish": {
-    "title": "Introduction",
-    "icon": "🐘",
-    "description": "First steps into this section",
-    "href": "/guides/big-data-tools/kirish"
-  }
+  "kirish": "Introduction",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Beginner"
+  },
+  "hadoop": "Hadoop: How the Big Data Revolution Began",
+  "mapreduce": "MapReduce: Divide and Conquer",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Intermediate"
+  },
+  "spark": "Apache Spark: Leaving Hadoop Behind on Speed",
+  "kafka": "Apache Kafka: The Heart of the Data Stream",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Advanced"
+  },
+  "flink": "Apache Flink: True Real-Time Processing",
+  "spark-tuning": "Tuning Spark: Speeding Up a Slow Job"
 }

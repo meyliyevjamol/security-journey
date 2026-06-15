@@ -1,8 +1,22 @@
 {
-  "kirish": {
-    "title": "Introduction",
-    "icon": "☁️",
-    "description": "First steps into this section",
-    "href": "/guides/cloud-security/kirish"
-  }
+  "kirish": "Introduction",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Beginner"
+  },
+  "bulut-asoslari": "Security in the Cloud: Whose Responsibility Really?",
+  "iam": "IAM: Who Can Access What, and When",
+  "ochiq-bucket": "Open S3 Buckets: The Most Common Fatal Mistake",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Intermediate"
+  },
+  "sirlarni-saqlash": "Secrets Management: Getting Passwords Out of Your Code",
+  "bulut-tarmoq": "Security Groups & VPC: The Walls of the Cloud",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Advanced"
+  },
+  "cspm": "CSPM: Watching the Whole Cloud Automatically",
+  "hujum-yollari": "Attack Paths: From One Key to the Entire Cloud"
 }

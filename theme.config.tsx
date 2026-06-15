@@ -24,20 +24,52 @@ const EDIT_LINK_WITH_TRANSLATIONS = {
 
 import { DocsThemeConfig, useConfig, useTheme } from 'nextra-theme-docs';
 
-const Logo = ({ height, width }: { height: number; width: number }) => {
-  const { theme } = useTheme();
+const ShieldMark = ({ size = 18 }: { size?: number }) => (
+  <svg
+    width={size}
+    height={size}
+    viewBox="0 0 64 64"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    aria-label="Security Journey"
+  >
+    <defs>
+      <linearGradient
+        id="sjShield"
+        x1="9"
+        y1="4"
+        x2="55"
+        y2="60"
+        gradientUnits="userSpaceOnUse"
+      >
+        <stop stopColor="#34D399" />
+        <stop offset="1" stopColor="#0D9488" />
+      </linearGradient>
+    </defs>
+    <path
+      d="M32 4L55 12V33C55 46 45.5 55.5 32 60C18.5 55.5 9 46 9 33V12L32 4Z"
+      fill="url(#sjShield)"
+    />
+    <path
+      d="M40 24.5C40 20 36 17.5 31.5 17.5C27 17.5 23 20 23 24.5C23 28.5 26.5 30.5 31.5 31.8C36.5 33 40 35 40 39.5C40 44 36 46.5 31.5 46.5C27 46.5 23 44 23 39.5"
+      stroke="white"
+      strokeWidth="5"
+      strokeLinecap="round"
+      fill="none"
+    />
+  </svg>
+);
+
+const Logo = ({ height = 18 }: { height?: number; width?: number }) => {
   return (
     <div style={{ alignItems: 'center', display: 'flex', gap: '8px' }}>
-      <svg
-        width={height || 18}
-        height={width || 18}
-        viewBox="0 0 64 68"
-        fill="none"
+      <ShieldMark size={height} />
+      <span
+        className="logo-text"
+        style={{ fontWeight: 'bold', fontSize: 18 }}
       >
-        <use href="public/logos/logo-dark.svg" />
-      </svg>
-      <img className='logo-img' src="/hero.png" alt="Hero" height="50" width="50" />
-      <span className='logo-text' style={{ fontWeight: 'bold', fontSize: 18 }}>Security Journey</span>
+        Security Journey
+      </span>
     </div>
   );
 };
@@ -118,6 +150,7 @@ const config: DocsThemeConfig = {
 
     return (
       <>
+        <link rel="icon" type="image/svg+xml" href="/icon.svg" />
         <link
           rel="apple-touch-icon"
           sizes="180x180"
@@ -171,7 +204,7 @@ const config: DocsThemeConfig = {
     titleComponent: ({ title, type }) =>
       type === 'separator' ? (
         <div className="flex items-center gap-2">
-          <Logo height={10} width={10} />
+          <ShieldMark size={12} />
           {title}
         </div>
       ) : (

@@ -1,0 +1,17 @@
+{
+  "overview": "Asosiy",
+  "-- sec": { "type": "separator", "title": "🛡️ Xavfsizlik" },
+  "web-security": "🕸️ Web Xavfsizligi",
+  "network-security": "🌐 Tarmoq Xavfsizligi",
+  "cloud-security": "☁️ Bulut Xavfsizligi",
+  "devsecops": "🔧 DevSecOps",
+  "pentest": "🎯 Penetratsion Test",
+  "cryptography": "🔑 Kriptografiya",
+  "compliance": "📋 Muvofiqlik & Audit",
+  "-- big": { "type": "separator", "title": "📊 Big Data" },
+  "data-engineering": "🛠️ Ma'lumotlar Muhandisligi",
+  "big-data-tools": "🐘 Big Data Toollari",
+  "data-warehouse": "🏛️ Ma'lumotlar Ombori",
+  "data-lake": "💧 Data Lake",
+  "streaming": "🌊 Real-time Streaming"
+}

@@ -1,0 +1,24 @@
+---
+title: 'Home'
+showFooter: false
+---
+
+import Card, { Cards } from '@components/core/Card';
+
+# Learn Security & Big Data together
+
+Welcome to **Security Journey** — a free, open-source learning platform for cybersecurity and big data. From web and network security to processing massive datasets with Spark and Kafka, learn it all with us.
+
+<div className="mt-8 mb-4 text-xl font-bold">🛡️ Security</div>
+<Cards num={3}>
+  <Card title="Web Security" description="OWASP Top 10, XSS, SQLi, auth" icon="🕸️" href="/guides/web-security/kirish" />
+  <Card title="DevSecOps" description="SAST/DAST, supply-chain, SBOM" icon="🔧" href="/guides/devsecops/kirish" />
+  <Card title="Penetration Testing" description="Recon, exploitation, Burp" icon="🎯" href="/guides/pentest/kirish" />
+</Cards>
+
+<div className="mt-8 mb-4 text-xl font-bold">📊 Big Data</div>
+<Cards num={3}>
+  <Card title="Data Engineering" description="ETL/ELT, pipeline, Airflow" icon="🛠️" href="/guides/data-engineering/kirish" />
+  <Card title="Big Data Tools" description="Hadoop, Spark, Kafka, Flink" icon="🐘" href="/guides/big-data-tools/kirish" />
+  <Card title="Real-time Streaming" description="Kafka Streams, real-time" icon="🌊" href="/guides/streaming/kirish" />
+</Cards>

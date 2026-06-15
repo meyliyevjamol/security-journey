@@ -1,0 +1,17 @@
+{
+  "overview": "Обзор",
+  "-- sec": { "type": "separator", "title": "🛡️ Безопасность" },
+  "web-security": "🕸️ Веб-безопасность",
+  "network-security": "🌐 Сетевая безопасность",
+  "cloud-security": "☁️ Облачная безопасность",
+  "devsecops": "🔧 DevSecOps",
+  "pentest": "🎯 Пентест",
+  "cryptography": "🔑 Криптография",
+  "compliance": "📋 Соответствие и аудит",
+  "-- big": { "type": "separator", "title": "📊 Big Data" },
+  "data-engineering": "🛠️ Инженерия данных",
+  "big-data-tools": "🐘 Инструменты Big Data",
+  "data-warehouse": "🏛️ Хранилище данных",
+  "data-lake": "💧 Data Lake",
+  "streaming": "🌊 Потоковая обработка"
+}

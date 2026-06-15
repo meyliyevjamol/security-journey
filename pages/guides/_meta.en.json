@@ -1,0 +1,17 @@
+{
+  "overview": "Overview",
+  "-- sec": { "type": "separator", "title": "🛡️ Security" },
+  "web-security": "🕸️ Web Security",
+  "network-security": "🌐 Network Security",
+  "cloud-security": "☁️ Cloud Security",
+  "devsecops": "🔧 DevSecOps",
+  "pentest": "🎯 Penetration Testing",
+  "cryptography": "🔑 Cryptography",
+  "compliance": "📋 Compliance & Audit",
+  "-- big": { "type": "separator", "title": "📊 Big Data" },
+  "data-engineering": "🛠️ Data Engineering",
+  "big-data-tools": "🐘 Big Data Tools",
+  "data-warehouse": "🏛️ Data Warehouse",
+  "data-lake": "💧 Data Lake",
+  "streaming": "🌊 Real-time Streaming"
+}

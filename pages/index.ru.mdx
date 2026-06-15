@@ -1,0 +1,24 @@
+---
+title: 'Главная'
+showFooter: false
+---
+
+import Card, { Cards } from '@components/core/Card';
+
+# Изучаем безопасность и Big Data вместе
+
+Добро пожаловать в **Security Journey** — бесплатную платформу с открытым исходным кодом по кибербезопасности и большим данным. От веб- и сетевой безопасности до обработки больших данных с помощью Spark и Kafka — изучайте всё вместе с нами.
+
+<div className="mt-8 mb-4 text-xl font-bold">🛡️ Безопасность</div>
+<Cards num={3}>
+  <Card title="Веб-безопасность" description="OWASP Top 10, XSS, SQLi, auth" icon="🕸️" href="/guides/web-security/kirish" />
+  <Card title="DevSecOps" description="SAST/DAST, supply-chain, SBOM" icon="🔧" href="/guides/devsecops/kirish" />
+  <Card title="Пентест" description="Recon, exploitation, Burp" icon="🎯" href="/guides/pentest/kirish" />
+</Cards>
+
+<div className="mt-8 mb-4 text-xl font-bold">📊 Big Data</div>
+<Cards num={3}>
+  <Card title="Инженерия данных" description="ETL/ELT, pipeline, Airflow" icon="🛠️" href="/guides/data-engineering/kirish" />
+  <Card title="Инструменты Big Data" description="Hadoop, Spark, Kafka, Flink" icon="🐘" href="/guides/big-data-tools/kirish" />
+  <Card title="Real-time Streaming" description="Kafka Streams, real-time" icon="🌊" href="/guides/streaming/kirish" />
+</Cards>

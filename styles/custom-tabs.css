@@ -1,0 +1,34 @@
+.react-tabs__tab {
+  border: 1px transparent solid !important;
+  border-top: 4px transparent solid !important;
+  background: transparent !important;
+}
+
+
+.react-tabs__tab:focus-visible {
+  box-shadow: none !important;
+}
+
+.react-tabs__tab--selected {
+  border-color: var(--shiki-token-string-expression) !important;
+  color: var(--shiki-token-string-expression) !important;
+  border-top-left-radius: 4px !important;
+  border-top-right-radius: 4px !important;
+  border-bottom-color: #111 !important;
+}
+
+.react-tabs__tab-list:has(.react-tabs__tab--selected) {
+  border-color: var(--shiki-token-string-expression) !important;
+}
+
+.react-tabs__tab--selected::after {
+  content: none !important;
+}
+
+.react-tabs__tab--selected:focus::after {
+  content: none !important;
+}
+
+.react-tabs__tab:focus::after {
+  content: none !important;
+}

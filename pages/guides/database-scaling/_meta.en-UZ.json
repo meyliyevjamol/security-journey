@@ -1,0 +1,22 @@
+{
+  "kirish": "Kirish",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Boshlang'ich"
+  },
+  "indekslar": "Indekslar: sekin so'rovni 1000 marta tezlatish",
+  "query-optimization": "EXPLAIN: so'rov nega sekin ekanini ko'rish",
+  "n-plus-one": "N+1 muammosi: ORM'ning yashirin qotili",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 O'rtacha"
+  },
+  "pagination": "Pagination: million qatorni to'g'ri sahifalash (keyset vs offset)",
+  "connection-pooling": "Connection pooling: bazaga ulanishlarni tejash",
+  "read-replica": "Read replica: o'qishni yukdan ajratish",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Murakkab"
+  },
+  "scaling-strategiyalar": "Vertical vs Horizontal: bazani qachon va qanday kattalashtirish"
+}

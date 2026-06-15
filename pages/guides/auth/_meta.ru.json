@@ -1,0 +1,23 @@
+{
+  "kirish": "Введение",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Начальный"
+  },
+  "auth-asoslari": "Аутентификация vs авторизация: кто? и что можно?",
+  "parol-saqlash": "Хранение паролей: bcrypt, argon2 и почему plain text — смерть",
+  "sessiya-cookie": "Сессии и cookie: запоминаем, кто вошёл",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Средний"
+  },
+  "jwt": "JWT: stateless-аутентификация, но осторожно",
+  "oauth-oidc": "OAuth2 и OpenID Connect: секреты «Войти через Google»",
+  "rbac": "RBAC: управление доступом через роли",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Продвинутый"
+  },
+  "token-xavfsizligi": "Кража токенов: refresh, ротация и отзыв",
+  "multi-tenant": "Мультитенантность: много клиентов, одна база, без утечек"
+}

@@ -1,0 +1,22 @@
+{
+  "kirish": "Introduction",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Beginner"
+  },
+  "indekslar": "Indexes: Making a Slow Query 1000x Faster",
+  "query-optimization": "EXPLAIN: Seeing Why a Query Is Slow",
+  "n-plus-one": "The N+1 Problem: The ORM's Hidden Killer",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Intermediate"
+  },
+  "pagination": "Pagination: Paging a Million Rows Right (keyset vs offset)",
+  "connection-pooling": "Connection Pooling: Saving Database Connections",
+  "read-replica": "Read Replicas: Offloading Reads",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Advanced"
+  },
+  "scaling-strategiyalar": "Vertical vs Horizontal: When and How to Scale a DB"
+}

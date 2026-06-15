@@ -5,7 +5,7 @@
     "title": "🟢 Beginner"
   },
   "streaming-nima": "What Is Streaming: Processing Data Live",
-  "event-driven": "Event-Driven Architecture: Systems That React to Events",
+  "event-driven": "Event-Driven: Systems That React to Events",
   "-- i": {
     "type": "separator",
     "title": "🟡 Intermediate"
@@ -16,6 +16,5 @@
     "type": "separator",
     "title": "🔴 Advanced"
   },
-  "exactly-once": "Exactly-Once: Every Message Exactly Once",
   "stream-scaling": "Millions of Events/Sec: Scaling the Stream"
 }

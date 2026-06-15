@@ -1,0 +1,21 @@
+{
+  "kirish": "Introduction",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Beginner"
+  },
+  "api-auth": "API Authentication: API Key, Token, mTLS",
+  "rate-limiting": "Rate Limiting: Protecting the API From Abuse",
+  "sorov-javob": "Cleaning Requests & Responses: Stop Over-Sharing Data",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Intermediate"
+  },
+  "cors": "CORS: Why Does the Browser Block the Request?",
+  "idempotency": "Idempotency: The Double-Clicked 'Pay' Button",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Advanced"
+  },
+  "api-gateway": "API Gateway: A Centralized Security Layer"
+}

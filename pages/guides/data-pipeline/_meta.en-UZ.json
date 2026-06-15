@@ -1,0 +1,20 @@
+{
+  "kirish": "Kirish",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Boshlang'ich"
+  },
+  "etl-elt": "ETL vs ELT: ma'lumotni qayerda tozalash",
+  "batch-stream": "Batch vs Streaming: to'plab yoki oqim bilan",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 O'rtacha"
+  },
+  "airflow": "Apache Airflow: quvurlarni dirijyorlik qilish",
+  "data-quality": "Ma'lumot sifati: axlat kirsa, axlat chiqadi",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Murakkab"
+  },
+  "pipeline-scaling": "Katta hajmli quvurlar: petabaytlarni boshqarish"
+}

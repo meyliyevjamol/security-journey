@@ -1,0 +1,21 @@
+{
+  "kirish": "Introduction",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Beginner"
+  },
+  "async-nima": "Async Processing: Deferring Heavy Work",
+  "message-queue": "What Is a Message Queue: RabbitMQ vs Kafka",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Intermediate"
+  },
+  "kafka": "Apache Kafka: The Heart of the Data Stream",
+  "background-jobs": "Background Jobs: Email, Reports, Exports in a Queue",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Advanced"
+  },
+  "exactly-once": "Exactly-Once: Stop Processing a Message Twice",
+  "dead-letter": "Dead Letter Queue: Handling 'Dead' Messages"
+}

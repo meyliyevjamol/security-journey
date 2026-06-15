@@ -1,17 +1,24 @@
 {
   "overview": "Overview",
-  "-- sec": { "type": "separator", "title": "🛡️ Security" },
-  "web-security": "🕸️ Web Security",
-  "network-security": "🌐 Network Security",
-  "cloud-security": "☁️ Cloud Security",
-  "devsecops": "🔧 DevSecOps",
-  "pentest": "🎯 Penetration Testing",
-  "cryptography": "🔑 Cryptography",
-  "compliance": "📋 Compliance & Audit",
-  "-- big": { "type": "separator", "title": "📊 Data Analysis" },
-  "data-engineering": "🛠️ Data Engineering",
-  "big-data-tools": "🐘 Big Data Tools",
-  "data-warehouse": "🏛️ Data Warehouse",
-  "data-lake": "💧 Data Lake",
-  "streaming": "🌊 Real-time Streaming"
+  "-- sec": {
+    "type": "separator",
+    "title": "🛡️ Data Security"
+  },
+  "input-injection": "💉 Input & Injection",
+  "auth": "🔑 Auth & Permissions",
+  "secrets": "🗝️ Secrets & Config",
+  "encryption": "🔒 Encryption",
+  "pii": "🕵️ Sensitive Data (PII)",
+  "secure-api": "🛡️ Secure APIs",
+  "-- data": {
+    "type": "separator",
+    "title": "📊 Working with Big Data"
+  },
+  "database-scaling": "🗄️ Database Scaling",
+  "partitioning": "🧩 Partitioning & Sharding",
+  "caching": "⚡ Caching",
+  "async-queues": "📨 Async & Queues",
+  "data-pipeline": "🛠️ Data Pipelines (ETL)",
+  "streaming": "🌊 Streaming",
+  "storage": "💾 Storage & Warehouse"
 }

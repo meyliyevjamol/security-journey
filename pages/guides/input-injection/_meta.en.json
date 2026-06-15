@@ -1,0 +1,21 @@
+{
+  "kirish": "Introduction",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Beginner"
+  },
+  "input-validatsiya": "Input Validation: Never Trust the User",
+  "sql-injection": "SQL Injection: Owning a DB With a Single Quote",
+  "parametrlangan-sorovlar": "Parameterized Queries: The Simplest Fix for Injection",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Intermediate"
+  },
+  "nosql-injection": "NoSQL Injection: MongoDB Is Not Safe Either",
+  "orm-xavfsizligi": "ORM Security: Will EF Core / Prisma Save You?",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Advanced"
+  },
+  "mass-assignment": "Mass Assignment: One Extra Field, a Big Hole"
+}

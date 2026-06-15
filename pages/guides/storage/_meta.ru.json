@@ -1,0 +1,21 @@
+{
+  "kirish": "Введение",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Начальный"
+  },
+  "saqlash-turlari": "Где хранить: SQL, NoSQL, файлы, объектное хранилище",
+  "object-storage": "Объектное хранилище (S3/MinIO): правильно храним файлы",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Средний"
+  },
+  "data-warehouse": "Data Warehouse: хранилище для отчётов и аналитики",
+  "data-lake": "Data Lake: храним сырые данные в одном озере",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Продвинутый"
+  },
+  "lakehouse": "Lakehouse: озеро и хранилище в одном (Delta, Iceberg)",
+  "fayl-formatlar": "Parquet, ORC, Avro: выбираем правильный формат"
+}

@@ -1,0 +1,23 @@
+{
+  "kirish": "Introduction",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Beginner"
+  },
+  "auth-asoslari": "Authentication vs Authorization: Who? and Allowed What?",
+  "parol-saqlash": "Storing Passwords: bcrypt, argon2 and Why Plain Text Is Death",
+  "sessiya-cookie": "Sessions & Cookies: Remembering Who Logged In",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Intermediate"
+  },
+  "jwt": "JWT: Stateless Auth, but Handle With Care",
+  "oauth-oidc": "OAuth2 & OpenID Connect: Secrets of 'Sign in With Google'",
+  "rbac": "RBAC: Managing Permissions With Roles",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Advanced"
+  },
+  "token-xavfsizligi": "Token Theft: Refresh, Rotation and Revocation",
+  "multi-tenant": "Multi-Tenant: Many Clients, One DB, No Data Leaks"
+}

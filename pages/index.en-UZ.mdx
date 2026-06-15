@@ -5,20 +5,20 @@ showFooter: false
 
 import Card, { Cards } from '@components/core/Card';
 
-# Xavfsizlik va Data Analiz — birga o'rganamiz
+# Backend uchun Xavfsizlik va Katta Ma'lumotlar
 
-Kiberxavfsizlik va data analiz (ma'lumotlar tahlili) bo'yicha bepul, ochiq manbali ta'lim platformasi **Security Journey** ga xush kelibsiz! Web va tarmoq xavfsizligidan tortib Spark va Kafka bilan katta ma'lumotlarni qayta ishlashgacha — barchasini biz bilan birga o'rganing.
+**Security Journey** — backend dasturchilar uchun amaliy, ochiq manbali ta'lim platformasi. Ma'lumotlar bilan ishlashda qanday xavfsizlikka e'tibor berish va katta ma'lumotlar bilan to'g'ri ishlashni — boshlang'ichdan murakkabgacha, biz bilan birga o'rganing.
 
-<div className="mt-8 mb-4 text-xl font-bold">🛡️ Xavfsizlik</div>
+<div className="mt-8 mb-4 text-xl font-bold">🛡️ Ma'lumotlar Xavfsizligi</div>
 <Cards num={3}>
-  <Card title="Web Xavfsizligi" description="OWASP Top 10, XSS, SQLi, auth" icon="🕸️" href="/guides/web-security/kirish" />
-  <Card title="DevSecOps" description="SAST/DAST, supply-chain, SBOM" icon="🔧" href="/guides/devsecops/kirish" />
-  <Card title="Penetratsion Test" description="Recon, exploitation, Burp" icon="🎯" href="/guides/pentest/kirish" />
+  <Card title="Auth & Ruxsatlar" description="JWT, OAuth2, RBAC, parol hashlash" icon="🔑" href="/guides/auth/kirish" />
+  <Card title="Input & Injection" description="Validatsiya, SQL injection'dan himoya" icon="💉" href="/guides/input-injection/kirish" />
+  <Card title="Xavfsiz API" description="Rate limiting, CORS, idempotency" icon="🛡️" href="/guides/secure-api/kirish" />
 </Cards>
 
-<div className="mt-8 mb-4 text-xl font-bold">📊 Data Analiz</div>
+<div className="mt-8 mb-4 text-xl font-bold">📊 Katta Ma'lumotlar bilan Ishlash</div>
 <Cards num={3}>
-  <Card title="Ma'lumotlar Muhandisligi" description="ETL/ELT, pipeline, Airflow" icon="🛠️" href="/guides/data-engineering/kirish" />
-  <Card title="Big Data Toollari" description="Hadoop, Spark, Kafka, Flink" icon="🐘" href="/guides/big-data-tools/kirish" />
-  <Card title="Real-time Streaming" description="Kafka Streams, real-time" icon="🌊" href="/guides/streaming/kirish" />
+  <Card title="Bazani Masshtablash" description="Indeks, query optimizatsiya, N+1" icon="🗄️" href="/guides/database-scaling/kirish" />
+  <Card title="Caching" description="Redis, kesh strategiyalari" icon="⚡" href="/guides/caching/kirish" />
+  <Card title="Async & Navbatlar" description="Kafka, RabbitMQ, background jobs" icon="📨" href="/guides/async-queues/kirish" />
 </Cards>

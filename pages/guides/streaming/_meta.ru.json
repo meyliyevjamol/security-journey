@@ -16,6 +16,5 @@
     "type": "separator",
     "title": "🔴 Продвинутый"
   },
-  "exactly-once": "Exactly-once: каждое сообщение ровно один раз",
   "stream-scaling": "Миллионы событий/сек: масштабируем поток"
 }

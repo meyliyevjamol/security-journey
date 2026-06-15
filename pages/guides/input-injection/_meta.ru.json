@@ -1,0 +1,21 @@
+{
+  "kirish": "Введение",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Начальный"
+  },
+  "input-validatsiya": "Валидация ввода: никогда не доверяй пользователю",
+  "sql-injection": "SQL-инъекции: захват базы одной кавычкой",
+  "parametrlangan-sorovlar": "Параметризованные запросы: простейшее решение от инъекций",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Средний"
+  },
+  "nosql-injection": "NoSQL-инъекции: MongoDB тоже не безопасен",
+  "orm-xavfsizligi": "Безопасность ORM: спасут ли вас EF Core / Prisma?",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Продвинутый"
+  },
+  "mass-assignment": "Mass Assignment: одно лишнее поле — большая дыра"
+}

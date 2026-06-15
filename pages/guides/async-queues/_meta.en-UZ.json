@@ -1,0 +1,21 @@
+{
+  "kirish": "Kirish",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Boshlang'ich"
+  },
+  "async-nima": "Async ishlov: og'ir ishni keyinga qoldirish",
+  "message-queue": "Message Queue nima: RabbitMQ va Kafka farqi",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 O'rtacha"
+  },
+  "kafka": "Apache Kafka: ma'lumot oqimining yuragi",
+  "background-jobs": "Background jobs: email, hisobot, eksport navbatda",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Murakkab"
+  },
+  "exactly-once": "Exactly-once: xabar ikki marta ishlanib ketmasin",
+  "dead-letter": "Dead Letter Queue: 'o'lik' xabarlarni boshqarish"
+}

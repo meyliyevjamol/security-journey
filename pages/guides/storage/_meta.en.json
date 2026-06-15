@@ -1,0 +1,21 @@
+{
+  "kirish": "Introduction",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Beginner"
+  },
+  "saqlash-turlari": "Where to Store: SQL, NoSQL, Files, Object Storage",
+  "object-storage": "Object Storage (S3/MinIO): Storing Files the Right Way",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Intermediate"
+  },
+  "data-warehouse": "Data Warehouse: A Store for Reports and Analytics",
+  "data-lake": "Data Lake: Storing Raw Data in One Lake",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Advanced"
+  },
+  "lakehouse": "Lakehouse: Lake and Warehouse in One (Delta, Iceberg)",
+  "fayl-formatlar": "Parquet, ORC, Avro: Choosing the Right Format"
+}

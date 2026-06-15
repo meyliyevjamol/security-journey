@@ -1,17 +1,24 @@
 {
   "overview": "Asosiy",
-  "-- sec": { "type": "separator", "title": "🛡️ Xavfsizlik" },
-  "web-security": "🕸️ Web Xavfsizligi",
-  "network-security": "🌐 Tarmoq Xavfsizligi",
-  "cloud-security": "☁️ Bulut Xavfsizligi",
-  "devsecops": "🔧 DevSecOps",
-  "pentest": "🎯 Penetratsion Test",
-  "cryptography": "🔑 Kriptografiya",
-  "compliance": "📋 Muvofiqlik & Audit",
-  "-- big": { "type": "separator", "title": "📊 Data Analiz" },
-  "data-engineering": "🛠️ Ma'lumotlar Muhandisligi",
-  "big-data-tools": "🐘 Big Data Toollari",
-  "data-warehouse": "🏛️ Ma'lumotlar Ombori",
-  "data-lake": "💧 Data Lake",
-  "streaming": "🌊 Real-time Streaming"
+  "-- sec": {
+    "type": "separator",
+    "title": "🛡️ Ma'lumotlar Xavfsizligi"
+  },
+  "input-injection": "💉 Input & Injection",
+  "auth": "🔑 Auth & Ruxsatlar",
+  "secrets": "🗝️ Sirlar & Konfiguratsiya",
+  "encryption": "🔒 Shifrlash",
+  "pii": "🕵️ Maxfiy Ma'lumot (PII)",
+  "secure-api": "🛡️ Xavfsiz API",
+  "-- data": {
+    "type": "separator",
+    "title": "📊 Katta Maʼlumotlar"
+  },
+  "database-scaling": "🗄️ Bazani Masshtablash",
+  "partitioning": "🧩 Partitioning & Sharding",
+  "caching": "⚡ Caching",
+  "async-queues": "📨 Async & Navbatlar",
+  "data-pipeline": "🛠️ Data Pipeline (ETL)",
+  "streaming": "🌊 Streaming",
+  "storage": "💾 Saqlash & Ombor"
 }

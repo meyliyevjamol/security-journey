@@ -4,18 +4,17 @@
     "type": "separator",
     "title": "🟢 Boshlang'ich"
   },
-  "streaming-nima": "Streaming nima: maʼlumotni 'jonli efirda' qayta ishlash",
-  "event-driven": "Event-driven arxitektura: hodisaga javob beruvchi tizim",
+  "streaming-nima": "Streaming nima: ma'lumotni 'jonli efirda' qayta ishlash",
+  "event-driven": "Event-driven: hodisaga javob beruvchi tizim",
   "-- i": {
     "type": "separator",
     "title": "🟡 O'rtacha"
   },
-  "kafka-streams": "Kafka Streams: oqimni real vaqtda oʻzgartirish",
-  "windowing": "Oyna (windowing): vaqt boʻylab maʼlumotni guruhlash",
+  "kafka-streams": "Kafka Streams: oqimni real vaqtda o'zgartirish",
+  "windowing": "Oyna (windowing): vaqt bo'ylab guruhlash",
   "-- a": {
     "type": "separator",
     "title": "🔴 Murakkab"
   },
-  "exactly-once": "Exactly-once: har xabar aniq bir marta",
   "stream-scaling": "Millionlab event/sekund: oqimni masshtablash"
 }

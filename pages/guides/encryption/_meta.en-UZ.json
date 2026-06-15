@@ -1,0 +1,21 @@
+{
+  "kirish": "Kirish",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Boshlang'ich"
+  },
+  "shifrlash-asoslari": "Shifrlash asoslari: at-rest va in-transit",
+  "tls-https": "TLS/HTTPS: API'ngizni eshitib qolishmasin",
+  "hash-vs-shifr": "Hashing vs Encryption: qaysi biri qachon?",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 O'rtacha"
+  },
+  "baza-shifrlash": "Bazani shifrlash: ustun, disk yoki ilova darajasida?",
+  "pii-shifrlash": "Maxfiy maydonlarni shifrlash (email, telefon, karta)",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Murakkab"
+  },
+  "kms": "Kalitlarni boshqarish (KMS): shifrning eng zaif nuqtasi"
+}

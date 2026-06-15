@@ -1,0 +1,22 @@
+{
+  "kirish": "Введение",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Начальный"
+  },
+  "indekslar": "Индексы: ускоряем медленный запрос в 1000 раз",
+  "query-optimization": "EXPLAIN: видим, почему запрос медленный",
+  "n-plus-one": "Проблема N+1: скрытый убийца ORM",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Средний"
+  },
+  "pagination": "Пагинация: правильно листаем миллион строк (keyset vs offset)",
+  "connection-pooling": "Connection pooling: экономим подключения к БД",
+  "read-replica": "Read-реплики: разгружаем чтение",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Продвинутый"
+  },
+  "scaling-strategiyalar": "Vertical vs Horizontal: когда и как масштабировать БД"
+}

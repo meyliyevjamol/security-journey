@@ -1,0 +1,21 @@
+{
+  "kirish": "Kirish",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Boshlang'ich"
+  },
+  "api-auth": "API autentifikatsiyasi: API key, token, mTLS",
+  "rate-limiting": "Rate limiting: API'ni suiiste'moldan himoya",
+  "sorov-javob": "So'rov va javobni tozalash: ortiqcha ma'lumot oqib chiqmasin",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 O'rtacha"
+  },
+  "cors": "CORS: brauzer nega so'rovni bloklaydi?",
+  "idempotency": "Idempotency: ikki marta bosilgan 'To'lov' tugmasi",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Murakkab"
+  },
+  "api-gateway": "API Gateway: markazlashgan himoya qatlami"
+}

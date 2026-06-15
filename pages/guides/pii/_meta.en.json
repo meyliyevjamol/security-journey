@@ -1,0 +1,20 @@
+{
+  "kirish": "Introduction",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Beginner"
+  },
+  "pii-nima": "What Is PII: Which Data Counts as 'Sensitive'",
+  "minimallashtirish": "Data Minimization: Don't Collect What You Don't Need",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Intermediate"
+  },
+  "maskalash": "Masking & Anonymization: No Card Numbers in Logs",
+  "gdpr-asoslari": "GDPR Basics: When a User Says 'Delete Me'",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Advanced"
+  },
+  "audit-log": "Audit Logging: Who Touched What Data, and When"
+}

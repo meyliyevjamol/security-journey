@@ -1,0 +1,21 @@
+{
+  "kirish": "Kirish",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Boshlang'ich"
+  },
+  "saqlash-turlari": "Qayerga saqlash: SQL, NoSQL, fayl, object storage",
+  "object-storage": "Object Storage (S3/MinIO): fayllarni to'g'ri saqlash",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 O'rtacha"
+  },
+  "data-warehouse": "Data Warehouse: hisobot va analitika uchun ombor",
+  "data-lake": "Data Lake: xom ma'lumotni bitta ko'lda saqlash",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Murakkab"
+  },
+  "lakehouse": "Lakehouse: ko'l va ombor bir tanada (Delta, Iceberg)",
+  "fayl-formatlar": "Parquet, ORC, Avro: to'g'ri formatni tanlash"
+}

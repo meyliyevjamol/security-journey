@@ -1,0 +1,20 @@
+{
+  "kirish": "Introduction",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Beginner"
+  },
+  "caching-nima": "Caching: Don't Do the Same Work Twice",
+  "redis": "Redis: The Most Popular Cache and More",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Intermediate"
+  },
+  "cache-strategiyalar": "Cache Strategies: cache-aside, write-through",
+  "cache-invalidation": "Cache Invalidation: The 'Stale Data' Problem",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Advanced"
+  },
+  "distributed-cache": "Distributed Cache: Many Instances, One Truth"
+}

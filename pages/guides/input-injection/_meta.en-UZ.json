@@ -1,0 +1,21 @@
+{
+  "kirish": "Kirish",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Boshlang'ich"
+  },
+  "input-validatsiya": "Input validatsiya: foydalanuvchiga hech qachon ishonma",
+  "sql-injection": "SQL Injection: bitta ' belgisi bilan bazani egallash",
+  "parametrlangan-sorovlar": "Parametrlangan so'rovlar: injection'ga eng oddiy yechim",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 O'rtacha"
+  },
+  "nosql-injection": "NoSQL Injection: MongoDB ham xavfsiz emas",
+  "orm-xavfsizligi": "ORM xavfsizligi: EF Core / Prisma sizni qutqaradimi?",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Murakkab"
+  },
+  "mass-assignment": "Mass Assignment: bitta ortiqcha maydon — katta teshik"
+}

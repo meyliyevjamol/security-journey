@@ -1,0 +1,21 @@
+{
+  "kirish": "Introduction",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Beginner"
+  },
+  "shifrlash-asoslari": "Encryption Basics: At-Rest and In-Transit",
+  "tls-https": "TLS/HTTPS: Stop Eavesdropping on Your API",
+  "hash-vs-shifr": "Hashing vs Encryption: Which One, When?",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Intermediate"
+  },
+  "baza-shifrlash": "Database Encryption: Column, Disk or App Level?",
+  "pii-shifrlash": "Encrypting Sensitive Fields (email, phone, card)",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Advanced"
+  },
+  "kms": "Key Management (KMS): The Weakest Point of Encryption"
+}

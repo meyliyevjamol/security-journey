@@ -1,0 +1,20 @@
+{
+  "kirish": "Introduction",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Beginner"
+  },
+  "etl-elt": "ETL vs ELT: Where to Clean the Data",
+  "batch-stream": "Batch vs Streaming: In Bulk or As a Flow",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Intermediate"
+  },
+  "airflow": "Apache Airflow: Conducting Your Pipelines",
+  "data-quality": "Data Quality: Garbage In, Garbage Out",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Advanced"
+  },
+  "pipeline-scaling": "Petabyte Pipelines: Handling Massive Scale"
+}

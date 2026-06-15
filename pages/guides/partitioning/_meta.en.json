@@ -1,0 +1,19 @@
+{
+  "kirish": "Introduction",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Beginner"
+  },
+  "partitioning-nima": "Partitioning: Splitting a Huge Table Into Pieces",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Intermediate"
+  },
+  "sharding": "Sharding: Spreading Data Across Many Servers",
+  "partition-kalit": "Choosing the Right Partition Key",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Advanced"
+  },
+  "resharding": "Resharding: Repartitioning a System That Outgrew Itself"
+}

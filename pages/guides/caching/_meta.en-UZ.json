@@ -1,0 +1,20 @@
+{
+  "kirish": "Kirish",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Boshlang'ich"
+  },
+  "caching-nima": "Caching nima: bir xil ishni ikki marta qilmaslik",
+  "redis": "Redis: eng mashhur kesh va undan ko'prog'i",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 O'rtacha"
+  },
+  "cache-strategiyalar": "Cache strategiyalari: cache-aside, write-through",
+  "cache-invalidation": "Cache invalidatsiya: 'eski ma'lumot' muammosi",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Murakkab"
+  },
+  "distributed-cache": "Taqsimlangan kesh: ko'p instansiya, bitta haqiqat"
+}

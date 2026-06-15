@@ -1,0 +1,19 @@
+{
+  "kirish": "Kirish",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Boshlang'ich"
+  },
+  "partitioning-nima": "Partitioning: katta jadvalni bo'laklarga bo'lish",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 O'rtacha"
+  },
+  "sharding": "Sharding: ma'lumotni ko'p serverga taqsimlash",
+  "partition-kalit": "Partition kalitini to'g'ri tanlash",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Murakkab"
+  },
+  "resharding": "Resharding: o'sib ketgan tizimni qayta taqsimlash"
+}

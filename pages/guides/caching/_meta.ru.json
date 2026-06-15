@@ -1,0 +1,20 @@
+{
+  "kirish": "Введение",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Начальный"
+  },
+  "caching-nima": "Кэширование: не делаем одну работу дважды",
+  "redis": "Redis: самый популярный кэш и не только",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Средний"
+  },
+  "cache-strategiyalar": "Стратегии кэша: cache-aside, write-through",
+  "cache-invalidation": "Инвалидация кэша: проблема «устаревших данных»",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Продвинутый"
+  },
+  "distributed-cache": "Распределённый кэш: много инстансов, одна истина"
+}

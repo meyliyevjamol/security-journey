@@ -1,0 +1,21 @@
+{
+  "kirish": "Введение",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Начальный"
+  },
+  "async-nima": "Асинхронная обработка: откладываем тяжёлую работу",
+  "message-queue": "Что такое очередь сообщений: RabbitMQ vs Kafka",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 Средний"
+  },
+  "kafka": "Apache Kafka: сердце потока данных",
+  "background-jobs": "Фоновые задачи: email, отчёты, экспорт в очереди",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Продвинутый"
+  },
+  "exactly-once": "Exactly-once: чтобы сообщение не обработалось дважды",
+  "dead-letter": "Dead Letter Queue: обработка «мёртвых» сообщений"
+}

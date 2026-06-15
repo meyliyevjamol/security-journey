@@ -1,0 +1,23 @@
+{
+  "kirish": "Kirish",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Boshlang'ich"
+  },
+  "auth-asoslari": "Authentication vs Authorization: kim? va nimaga ruxsat?",
+  "parol-saqlash": "Parollarni saqlash: bcrypt, argon2 va nega plain text — o'lim",
+  "sessiya-cookie": "Sessiya va cookie: kim tizimga kirganini eslab qolish",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 O'rtacha"
+  },
+  "jwt": "JWT: stateless auth, lekin ehtiyot bo'l",
+  "oauth-oidc": "OAuth2 va OpenID Connect: 'Google bilan kirish' sirlari",
+  "rbac": "RBAC: rollar bilan ruxsatlarni boshqarish",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Murakkab"
+  },
+  "token-xavfsizligi": "Token o'g'irlash: refresh, rotation va revocation",
+  "multi-tenant": "Multi-tenant: bir bazada ko'p mijoz, ma'lumot aralashmasin"
+}

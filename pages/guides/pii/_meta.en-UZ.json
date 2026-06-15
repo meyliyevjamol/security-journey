@@ -1,0 +1,20 @@
+{
+  "kirish": "Kirish",
+  "-- b": {
+    "type": "separator",
+    "title": "🟢 Boshlang'ich"
+  },
+  "pii-nima": "PII nima: qaysi ma'lumot 'maxfiy' hisoblanadi",
+  "minimallashtirish": "Ma'lumotni minimallashtirish: kerakmas narsani yig'ma",
+  "-- i": {
+    "type": "separator",
+    "title": "🟡 O'rtacha"
+  },
+  "maskalash": "Maskalash va anonimlashtirish: log'da karta raqami chiqmasin",
+  "gdpr-asoslari": "GDPR asoslari: foydalanuvchi 'meni o'chir' desa",
+  "-- a": {
+    "type": "separator",
+    "title": "🔴 Murakkab"
+  },
+  "audit-log": "Audit log: kim, qachon, qaysi ma'lumotga tegdi"
+}

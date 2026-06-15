@@ -185,6 +185,10 @@ const config: DocsThemeConfig = {
 
     return (
       <>
+        <meta
+          name="google-site-verification"
+          content="ql4MDftECgGOMDBPyOg7v0d4NmwzHNOdCVnzlgrTcNE"
+        />
         <link rel="canonical" href={canonical} />
         <meta property="og:url" content={canonical} />
         <script

@@ -8,7 +8,7 @@ const Zoom = dynamic(() => import('react-medium-image-zoom'), {
   ssr: false,
 })
 
-const github = 'https://github.com/ismoilovdevml/security-journey';
+const github = 'https://github.com/meyliyevjamol/security-journey';
 
 const TITLE_WITH_TRANSLATIONS = {
   'en-UZ': 'Security Journey',
@@ -141,9 +141,12 @@ const config: DocsThemeConfig = {
     const description =
       frontMatter?.description ||
       defaultDescriptions[locale as string] || defaultDescriptions['en-UZ'];
-    const image = frontMatter?.type
-      ? `https://security-journey.uz/api/og?title=${frontMatter?.ogImageText}&category=Security`
-      : frontMatter?.image || '/banner.png';
+    // The /api/og dynamic route was removed for Cloudflare Pages, so always use a
+    // real static image and keep og:image as an absolute URL (crawlers require it).
+    const rawImage = frontMatter?.image || '/og.jpg';
+    const image = rawImage.startsWith('http')
+      ? rawImage
+      : `https://security-journey.uz${rawImage}`;
     const folder = theme === 'light' ? '/light' : '/dark';
 
     const composedTitle = `${title} - Security Journey`;
@@ -152,13 +155,24 @@ const config: DocsThemeConfig = {
       .split('?')[0]
       .split('#')[0]
       .replace(/\.(en-UZ|en|ru)$/, '');
-    const localePrefix = locale && locale !== 'en-UZ' ? `/${locale}` : '';
-    const canonical =
-      localePrefix && cleanPath === '/'
-        ? `https://security-journey.uz${localePrefix}`
-        : `https://security-journey.uz${localePrefix}${
-            cleanPath === '/' ? '/' : cleanPath
-          }`;
+
+    // Build a fully-qualified URL for a given locale + the current page.
+    const localeUrl = (loc: string) => {
+      const prefix = loc === 'en-UZ' ? '' : `/${loc}`;
+      if (cleanPath === '/') {
+        return loc === 'en-UZ'
+          ? 'https://security-journey.uz/'
+          : `https://security-journey.uz${prefix}`;
+      }
+      return `https://security-journey.uz${prefix}${cleanPath}`;
+    };
+    const canonical = localeUrl(locale || 'en-UZ');
+    const ogLocaleMap: Record<string, string> = {
+      'en-UZ': 'uz_UZ',
+      en: 'en_US',
+      ru: 'ru_RU',
+    };
+    const currentOgLocale = ogLocaleMap[locale as string] || 'uz_UZ';
 
     const jsonLd = {
       '@context': 'https://schema.org',
@@ -175,7 +189,11 @@ const config: DocsThemeConfig = {
           '@type': 'WebSite',
           '@id': 'https://security-journey.uz/#website',
           name: 'Security Journey',
-          alternateName: 'Security Journey — backend xavfsizlik va data',
+          alternateName: [
+            'Security Journey UZ',
+            'Security Journey O\'zbekiston',
+            'security journey uz',
+          ],
           url: 'https://security-journey.uz/',
           publisher: { '@id': 'https://security-journey.uz/#org' },
           inLanguage: ['uz', 'en', 'ru'],
@@ -187,10 +205,14 @@ const config: DocsThemeConfig = {
       <>
         <meta
           name="google-site-verification"
-          content="ql4MDftECgGOMDBPyOg7v0d4NmwzHNOdCVnzlgrTcNE"
+          content="VmZWwOOs7qY1O30ZzeCl7RVzQ3tcBGXjBqecXfpCMgo"
         />
         <link rel="canonical" href={canonical} />
         <meta property="og:url" content={canonical} />
+        <link rel="alternate" hrefLang="x-default" href={localeUrl('en-UZ')} />
+        <link rel="alternate" hrefLang="uz" href={localeUrl('en-UZ')} />
+        <link rel="alternate" hrefLang="en" href={localeUrl('en')} />
+        <link rel="alternate" hrefLang="ru" href={localeUrl('ru')} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
@@ -231,8 +253,17 @@ const config: DocsThemeConfig = {
         <meta name="description" content={description} />
 
         <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={composedTitle} />
+        <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={image} />
 
+        <meta property="og:site_name" content="Security Journey" />
+        <meta property="og:locale" content={currentOgLocale} />
+        {Object.values(ogLocaleMap)
+          .filter(l => l !== currentOgLocale)
+          .map(l => (
+            <meta key={l} property="og:locale:alternate" content={l} />
+          ))}
         <meta property="og:description" content={description} />
         <meta property="og:title" content={composedTitle} />
         <meta property="og:image" content={image} />
